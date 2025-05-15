@@ -32,12 +32,5 @@ This project presents an interactive Power BI dashboard analyzing sales data fro
 
 
 
-## 📌 Getting Started
-
-To explore the dashboard:
-
-1. Clone this repository.
-2. Open `Pizza_Sales_Dashboard.pbix` using Power BI Desktop.
-3. Interact with the visuals to gain insights into the sales data.
 
 
